@@ -24,3 +24,5 @@ $ streamlit run src/app.py
 ```
 
 ### Interface usage
+
+![Intefrace Gif](https://github.com/kesha001/Civ_Harm_Ukraine_Streamlit_Dashboard/blob/main/images/dashboard_usage.gif)
