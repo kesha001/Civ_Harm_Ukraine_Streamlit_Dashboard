@@ -1,4 +1,4 @@
-# Civilian Harm Incidents by rusia in Ukraine Dashboard with Streamlit
+# Civilian Harm Incidents by russia in Ukraine Dashboard with Streamlit
 
 This project demonstrates simple Streamlit app for visualisation data of incidents in Ukraine that have resulted in potential civilian harm from the OSINT group  [Bellingcat](https://www.bellingcat.com/) data source.
 
